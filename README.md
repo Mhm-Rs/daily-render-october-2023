@@ -27,9 +27,9 @@ Made with : _React, Socket.io_
 
 **Positive Points**
 - Fully fonctional !
-- Pratical use of my network skills
-- Smooth React reminder
+- API works as intended, plus some use of env files (even though I face problems with Vite)
+- Beautiful 😎
 
 **Negative Points**
-- Bug with 2 notifications instead of 1
-- Not fully covered interface
+- Bug with sometimes an uneffective loading
+- Could not implement the "data from a random city" feature in time ☹️
