@@ -22,8 +22,8 @@ Made with : _React, Socket.io_
 
 ## Day 2
 ### Project done : React Weather App
-An app designed to establish a TCP connection between 2 computers and allow users to have real-time notifications on their apps.
-Made with : _React, Socket.io_
+An app designed to show the weather of the location a user is currently in, all nicely styled 
+Made with : _React, OpenWeatherMap API_
 
 **Positive Points**
 - Fully fonctional !
