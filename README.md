@@ -22,7 +22,7 @@ Made with : _React, Socket.io_
 
 ## Day 2
 ### Project done : React Weather App
-An app designed to show the weather of the location a user is currently in, all nicely styled 
+An app designed to show the weather of the location of an user, all nicely styled 
 Made with : _React, OpenWeatherMap API_
 
 **Positive Points**
