@@ -33,3 +33,16 @@ Made with : _React, OpenWeatherMap API_
 **Negative Points**
 - Bug with sometimes an uneffective loading
 - Could not implement the "data from a random city" feature in time ☹️
+
+## Day 3
+### Project done : Python Calculator
+Yet another tiny calculator, but made in python 😂
+Made with : _Python, Tkinter_
+
+**Positive Points**
+- Very easy to make and simple
+- Another approach for calculator, instead of writing the logic, all had been done with "eval"
+
+**Negative Points**
+- No unique traits
+- Overall pretty basic
