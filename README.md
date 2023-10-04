@@ -46,3 +46,17 @@ Made with : _Python, Tkinter_
 **Negative Points**
 - No unique traits
 - Overall pretty basic
+
+## Day 4
+### Project done : Python Paint App
+Mini clone of the famous Paint from Microsoft, with saving features.
+Made with : _Python, Tkinter_
+
+**Positive Points**
+- Really simple with few code
+- An entirely new type of project : canvas
+- All features that were wanted were added
+
+**Negative Points**
+- Haven't added a better eraser even though I could
+
