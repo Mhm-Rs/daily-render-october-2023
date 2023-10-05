@@ -60,3 +60,17 @@ Made with : _Python, Tkinter_
 **Negative Points**
 - Haven't added a better eraser even though I could
 
+## Day 5
+### Project done : Python PDF Viewer
+Some little Foxit PDF Viewer clone, also made as a standalone .exe file
+Made with : _Python, Tkinter, Pyinstaller_
+
+**Positive Points**
+- Fully fonctional
+- Intuitive interface
+- Available .exe for easier share
+
+**Negative Points**
+- No zoom feature
+- 3rd python tkinter in a row, should change tomorrow
+
