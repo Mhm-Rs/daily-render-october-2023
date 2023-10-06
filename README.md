@@ -74,3 +74,18 @@ Made with : _Python, Tkinter, Pyinstaller_
 - No zoom feature
 - 3rd python tkinter in a row, should change tomorrow
 
+## Day 6
+### Project done : Crypto Command Line Interface
+A CLI that displays some crypto, their current price, their 24 hour change and their all time high
+Made with : _React, Ink-CLI_
+
+**Positive Points**
+- A good use of the crypto API
+- First build of a CLI ! Using React it has access to the Internet which is awesome
+- Simple and complete
+
+**Negative Points**
+- Could not create a components folder (various errors when I did it) and it made me do all the code inside a single file, pretty unesthetic
+- Lots of deprecated packages that I could not use (importJsx for example)
+- Could implement a way to search for a desired crypto
+
