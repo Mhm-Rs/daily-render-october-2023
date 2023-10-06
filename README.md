@@ -77,7 +77,7 @@ Made with : _Python, Tkinter, Pyinstaller_
 ## Day 6
 ### Project done : Crypto Command Line Interface
 A CLI that displays some crypto, their current price, their 24 hour change and their all time high
-Made with : _React, Ink-CLI_
+Made with : _React, Ink-CLI, CryptoAPI_
 
 **Positive Points**
 - A good use of the crypto API
