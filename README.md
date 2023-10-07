@@ -89,3 +89,17 @@ Made with : _React, Ink-CLI, CryptoAPI_
 - Lots of deprecated packages that I could not use (importJsx for example)
 - Could implement a way to search for a desired crypto
 
+## Day 7
+### Project done : Image Search App
+A clone of googles images, used to search for images trough names
+Made with : _React, Unsplash-API_
+
+**Positive Points**
+- Small fully working clone
+- Another useful API
+- Use of previously written functions : previous and next, from my old React fullstack project
+
+**Negative Points**
+- Fairly basic
+- Too tired to add a lot of esthetic 😂
+
