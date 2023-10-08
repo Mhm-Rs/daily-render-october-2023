@@ -103,3 +103,16 @@ Made with : _React, Unsplash-API_
 - Fairly basic
 - Too tired to add a lot of esthetic 😂
 
+## Day 8
+### Project done : Snake Game
+The classic snake game made in Java
+Made with : _Java, AWT_
+
+**Positive Points**
+- Small additions to make it more personal
+- First Java Project of the challenge 😎
+
+**Negative Points**
+- We want Slick2D 🌚
+
+
