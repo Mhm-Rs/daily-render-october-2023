@@ -116,3 +116,20 @@ Made with : _Java, AWT_
 - We want Slick2D 🌚
 
 
+## Day 9
+### Project done : Notes App
+An app that allows the user to create and save notes locally as well as edit them
+Made with : _Vue, Quasar_
+
+**Positive Points**
+- Introduction to Vue and Quasar (still not understanding a lot of concepts 😵‍💫)
+- Fully fonctional Note App
+- Very beautifully styled thanks to Quasar 😊
+
+**Negative Points**
+- Wouldhave been nice to add an image to a note, or pin one
+
+
+
+
+
