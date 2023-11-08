@@ -130,6 +130,15 @@ Made with : _Vue, Quasar_
 - Wouldhave been nice to add an image to a note, or pin one
 
 
+## Day 10
+### Project done : Python Translator
+Some little google translate clone
+Made with : _Python, Tkinter_
 
+**Positive Points**
+- Fully fonctional
+- Intuitive interface
 
+**Negative Points**
+- No reversing languages features
 
